@@ -25,3 +25,6 @@ Status: ...... Building & Learning
 > SYSTEM ONLINE
 > PROFILE LOADED SUCCESSFULLY
 ```
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranjali-t&show_icons=true&theme=radical)
