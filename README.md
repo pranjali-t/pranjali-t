@@ -15,7 +15,7 @@ SYSTEM INFORMATION
 
 OS: .......... Windows
 Kernel: ...... MirAI B.Tech Student
-Languages: ... Python, Java, Kotlin
+Languages: ... Python, Java
 Skills: ...... AI/ML, GenAI, Streamlit
 Focus: ....... Artificial Intelligence
 Hobbies: ..... AI Engineering, Development
